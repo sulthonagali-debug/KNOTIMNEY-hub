@@ -1,0 +1,121 @@
+/* Atur font dan warna dasar */
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: midnightblue;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Header dan bilah pencarian */
+.search-header {
+    width: 100%;
+    background-color: black;
+    border-bottom: 1px solid #dbdbdb;
+    padding: 35px 0;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 1000;
+}
+
+.search-container {
+    max-width: 935px;
+    margin: 0 auto;
+    padding: 0 20px;
+    display: flex;
+    align-items: center;
+    color: white;
+    margin-right: 300px;
+    margin-left: 400px;
+    
+}
+
+.search-icon {
+    color: midnightblue;
+    font-size: 16px;
+    margin-right: 10px;
+    margin-left: 100px;
+}
+
+.search-input {
+    width: 100%;
+    border: none;
+    background-color: midnightblue;
+    color: #ffffff;
+    border-radius: 8px;
+    padding: 15px 10px;
+    font-size: 16px;
+    outline: none;
+    margin-left: 5px;
+}
+
+.search-input::placeholder {
+    color: goldenrod;
+}
+
+/* Konten utama dan grid postingan */
+.content {
+    max-width: 935px;
+    margin: 370px auto 20px; /* Jarak dari header */
+    padding: 0 20px;
+}
+
+.post-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 50px;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    color: #ffffff;
+}
+
+.post-card {
+    background-color: black;
+    border: 2px solid black;
+    border-radius: 8px;
+    overflow: hidden;
+    cursor: pointer;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.post-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    background-color: midnightblue;
+    transition: .3s ease-in-out;
+    border-radius: 4px;
+}
+
+.post-card img {
+    width: 100%;
+    height: auto;
+    display: block;
+    object-fit: cover;
+}
+
+.post-info {
+    padding: 40px;
+    text-align: center;
+}
+
+.post-title {
+    margin: 0;
+    font-size: 24px;
+    color: white;
+    font-weight: 500;
+}
+
+.post-subtitle {
+    color: goldenrod;
+    font-size: 20px ;
+}
+
+/* Responsif */
+@media (max-width: 768px) {
+    .post-grid {
+        grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+        gap: 15px;
+    }
+}
