@@ -1,0 +1,94 @@
+*,
+html {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: midnightblue;
+}
+
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: midnightblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.container {
+    background-color: black;
+    padding: 2em;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    max-width: 1000px;
+}
+
+h2 {
+    text-align: center;
+    color: #fff;
+    font-size: 40;
+}
+
+.form-group {
+    margin-bottom: 1em;
+}
+
+label {
+    display: block;
+    margin-bottom: 0.5em;
+    color: #fff;
+    font-weight: bold;
+    font-size: 20;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="date"],
+textarea {
+    width: 100%;
+    padding: 0.8em;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 1em;
+}
+
+input:focus,
+textarea:focus {
+    border-color: #007bff;
+    outline: none;
+    box-shadow: 0 0 5px rgba(0, 123, 255, 0.5);
+}
+
+button[type="submit"] {
+    width: 100%;
+    padding: 0.8em;
+    background-color: black;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    font-size: 1.1em;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 23;
+}
+
+button[type="submit"]:hover {
+    background-color: midnightblue;
+    transition: .3s ease-in-out;
+    border-radius: 4px;
+}
+
+.li-daftar {
+background-color: midnightblue;
+list-style-type: none;
+}
+
+.daftar-gas {
+    background-color: midnightblue;
+}
