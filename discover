@@ -1,0 +1,356 @@
+<html>
+    <head>
+        <title>DISCOVER</title>
+        <link rel="stylesheet" href="discover.css"
+    </head>
+    <body>
+        <!-- NAVIGATION BAR -->
+
+        <!-- NAVIGATION BAR SELESAI -->
+
+        <!-- CONTENT 1 -->
+
+        <!-- CONTENT END -->
+
+        <!-- FOOTER -->
+
+        <!-- FOOTER END -->
+    </body>
+</html>
+
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Halaman Pencarian Mirip Instagram</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
+</head>
+<body>
+
+    <header class="search-header">
+        <div class="search-container">
+            <h1>DISCOVER</h1>
+            <i class="fas fa-search search-icon"></i>
+            <input type="text" class="search-input" placeholder="Cari">
+        </div>
+    </header>
+    <main class="content">
+        <div class="post-grid">
+            <div class="post-card">
+                <a href="https://www.youtube.com/@RaymondChins/videos">
+                    <img src="WhatsApp Image 2025-08-04 at 14.28.28_7afd02bb.jpg" alt="Postingan 1">
+                </a>
+                <div class="post-info">
+                    <p class="post-title">Akses Raymond Chin (Youtube)</p>
+                    <h1 class="post-subtitle">Self Development, Wisdom, Finance, Bussiness</h1>
+                </div>
+            </div>
+            <div class="post-card">
+                <a href="https://spongebob.fandom.com/id/wiki/Beruang_laut">
+                    <img src="WhatsApp Image 2025-08-04 at 06.41.38_bebd1c04.jpg" alt="Postingan 2">
+                </a>
+                <div class="post-info">
+                    <p class="post-title">Beruang Laut</p>
+                    <h1 class="post-subtitle">Wiki Fandom</h1>
+                </div>
+            </div>
+            <div class="post-card">
+                <a href="https://en.wikipedia.org/wiki/Mount_Merbabu">
+                    <img src="WhatsApp Image 2025-08-04 at 06.35.34_8932bc20.jpg" alt="Postingan 3">
+                </a>
+                <div class="post-info">
+                    <p class="post-title">Gunung Merbabu Fact</p>
+                    <h1 class="post-subtitle">Wikipedia, Reference</h1>
+                </div>
+            </div>
+            <div class="post-card">
+                <a href="https://www.youtube.com/@TimothyRonald">
+                    <img src="WhatsApp Image 2025-08-04 at 14.27.56_2a3f8832.jpg" alt="Postingan 4">
+                </a>
+                <div class="post-info">
+                    <p class="post-title">Akses Timothy Ronald (Youtube)</p>
+                    <h1 class="post-subtitle">Self Development, Finance, Bussiness, Wisdom</h1>
+                </div>
+            </div>
+            <div class="post-card">
+                <a href="https://chatgpt.com/">
+                    <img src="WhatsApp Image 2025-08-03 at 20.38.47_91bda5fa.jpg" alt="Postingan 5">
+                </a>
+                <div class="post-info">
+                    <p class="post-title">Akses Chat GPT</p>
+                    <h1 class="post-subtitle">Access App</h1>
+                </div>
+            </div>
+            <div class="post-card">
+                <a href="https://gemini.google.com/app">
+                    <img src="WhatsApp Image 2025-08-03 at 20.51.10_c4a75f35.jpg" alt="Postingan 6">
+                </a>
+                <div class="post-info">
+                    <p class="post-title">Akses Gemini.AI</p>
+                    <h1 class="post-subtitle">Access App</h1>
+                </div>
+            </div>
+            <div class="post-card">
+                <a href="https://www.remove.bg/">
+                    <img src="WhatsApp Image 2025-08-03 at 20.58.07_2e5dd107.jpg" alt="Postingan 7">
+                </a>
+                <div class="post-info">
+                    <p class="post-title">Akses Background Remover</p>
+                    <h1 class="post-subtitle">Access App</h1>
+        </div>
+        </div>
+        <div class="post-card">
+            <a href="https://www.youtube.com/">
+                <img src="WhatsApp Image 2025-08-03 at 21.03.04_fed2553a.jpg" alt="Postingan 8">
+            </a>
+            <div class="post-info">
+                <p class="post-title">Akses Youtube</p>
+                <h1 class="post-subtitle">Access App</h1>   
+        </div>
+        </div>
+        <div class="post-card">
+            <a href="https://web.whatsapp.com/">
+                <img src="WhatsApp Image 2025-08-03 at 21.13.33_556d128d.jpg" alt="Postingan 9">
+            </a>
+            <div class="post-info">
+                <p class="post-title">Akses Whatsapp Web</p>
+                <h1 class="post-subtitle">Access App</h1>
+            </div>
+        </div>
+        <div class="post-card">
+            <a href="https://www.instagram.com/p/DMP7AmxRwTq/">
+                <img src="WhatsApp Image 2025-08-03 at 21.44.42_e33a864a.jpg" alt="Postingan 10">
+            </a>
+            <div class="post-info">
+                <p class="post-title">Destinasi Makan Enak Bandung 1</p>
+                <h1 class="post-subtitle">Food Reference</h1>
+            </div>
+        </div>
+        <div class="post-card">
+            <a href="https://www.instagram.com/folkative/">
+                <img src="WhatsApp Image 2025-08-04 at 14.27.56_db0fef5d.jpg" alt="Postingan 11">
+            </a>
+            <div class="post-info">
+                <p class="post-title">Akses Folkative Instagram</p>
+                <h1 class="post-subtitle">Information, News, Reference, Politics</h1>
+            </div>
+        </div>
+        <div class="post-card">
+            <a href="https://www.youtube.com/@ferryirwandi">
+                <img src="WhatsApp Image 2025-08-04 at 14.27.55_59dd752b.jpg" alt="Postingan 12">
+            </a>
+            <div class="post-info">
+                <p class="post-title">Akses Ferry Irwandi (Youtube)</p>
+                <h1 class="post-subtitle">Self Development, Finance, Wisdom</h1>
+            </div>
+        </div>
+        <div class="post-card">
+            <a href="https://www.instagram.com/irwandiferry/">
+                <img src="WhatsApp Image 2025-08-04 at 14.27.55_37c1a286.jpg" alt="Postingan 13">
+            </a>
+            <div class="post-info">
+                <p class="post-title">Akses Ferry Irwandi (Instagram)</p>
+                <h1 class="post-subtitle">Self Development, Finance, Wisdom</h1>
+            </div>
+        </div>
+        <div class="post-card">
+            <a href="https://www.instagram.com/timothyronaldd/">
+                <img src="WhatsApp Image 2025-08-04 at 14.27.58_237ea961.jpg" alt="Postingan 14">
+            </a>
+            <div class="post-info">
+                <p class="post-title">Akses Timothy Ronald (Instagram)</p>
+                <h1 class="post-subtitle">Self Development, Finance, Bussiness, Wisdom</h1>
+            </div>
+        </div>
+        <div class="post-card">
+            <a href="https://www.instagram.com/raymondchins/">
+                <img src="WhatsApp Image 2025-08-04 at 14.28.27_d883c9a5.jpg" alt="Postingan 15">
+            </a>
+            <div class="post-info">
+                <p class="post-title">Akses Raymond Chin (Instagram)</p>
+                <h1 class="post-subtitle">Self Development, Wisdom, Finance, Bussiness</h1>
+            </div>
+        </div>
+        <div class="post-card">
+            <a href="https://www.instagram.com/felix.siauw/">
+                <img src="WhatsApp Image 2025-08-04 at 14.27.41_8db9e7f6.jpg" alt="Postingan 16">
+            </a>
+            <div class="post-info">
+                <p class="post-title">Akses Ustadz Felix Siauw (Instagram)</p>
+                <h1 class="post-subtitle">Religion, Self Development, Wisdom</h1>
+            </div>
+        </div>
+        <div class="post-card">
+            <a href="https://www.instagram.com/adihidayatofficial/">
+                <img src="WhatsApp Image 2025-08-04 at 14.27.54_d15bfc19.jpg" alt="Postingan 17">
+            </a>
+            <div class="post-info">
+                <p class="post-title">Akses Ustadz Adi Hidayat (Instagram)</p>
+                <h1 class="post-subtitle">Religion, Self Development, Wisdom</h1>
+            </div>
+        </div>
+        <div class="post-card">
+            <a href="https://www.instagram.com/dr.tirta/">
+                <img src="WhatsApp Image 2025-08-04 at 14.27.23_f095d1d0.jpg" alt="Postingan 18">
+            </a>
+            <div class="post-info">
+                <p class="post-title">Akses Dr. Tirta Mandira Hudhi (Instagram)</p>
+                <h1 class="post-subtitle">Health, Self Development, Finance, Wisdom</h1>
+            </div>
+        </div>
+        <div class="post-card">
+            <a href="https://www.youtube.com/@TirtaPengPengPeng">
+                <img src="WhatsApp Image 2025-08-04 at 14.27.17_55aa6edb.jpg" alt="Postingan 19">
+            </a>
+            <div class="post-info">
+                <p class="post-title">Akses Dr. Tirta Mandira Hudhi (Youtube)</p>
+                <h1 class="post-subtitle">Health, Self Development, Finance, Wisdom</h1>
+            </div>
+        </div>
+        <div class="post-card">
+            <a href="https://www.youtube.com/@infarmid">
+                <img src="20250804_152650.png" alt="Postingan 20">
+            </a>
+            <div class="post-info">
+                <p class="post-title">Akses Infarm Id (Youtube)</p>
+                <h1 class="post-subtitle">Agriculture, Self Development</h1>
+            </div>
+        </div>
+        <div class="post-card">
+            <a href="https://www.instagram.com/infarm.id/">
+                <img src="20250804_152545.png" alt="Postingan 21">
+            </a>
+            <div class="post-info">
+                <p class="post-title">Akses Infarm Id (Instagram)</p>
+                <h1 class="post-subtitle">Agriculture, Self Development</h1>
+            </div>
+        </div>
+        <div class="post-card">
+            <a href="https://www.instagram.com/sogafarm.id/">
+                <img src="20250804_154001.png" alt="Postingan 22">
+            </a>
+            <div class="post-info">
+                <p class="post-title">Akses Soga Farm Indonesia (Instagram)</p>
+                <h1 class="post-subtitle">Agriculture, Reference, Self Development</h1>
+            </div>
+        </div>
+        <div class="post-card">
+            <a href="https://www.youtube.com/@sogafarm.id18">
+                <img src="20250804_154429.png" alt="Postingan 23">
+            </a>
+            <div class="post-info">
+                <p class="post-title">Akses Soga Farm Indonesia (Youtube)</p>
+                <h1 class="post-subtitle">Agriculture, Reference, Self Development</h1>
+            </div>
+        </div>
+        <div class="post-card">
+            <a href="https://www.youtube.com/@GadgetIn">
+                <img src="WhatsApp Image 2025-08-04 at 17.21.03_02b4485d.jpg" alt="Postingan 24">
+            </a>
+            <div class="post-info">
+                <p class="post-title">Akses Gadgetin (Youtube)</p>
+                <h1 class="post-subtitle">Gadget, Tech, Untensils</h1>
+            </div>
+        </div>
+        <div class="post-card">
+            <a href="https://www.instagram.com/gadgetins/">
+                <img src="WhatsApp Image 2025-08-04 at 17.21.03_d34d9ee9.jpg" alt="Postingan 25">
+            </a>
+            <div class="post-info">
+                <p class="post-title">Akses Gadgetin (Instagram)</p>
+                <h1 class="post-subtitle">Gadget, Tech, Untensils</h1>
+            </div>
+        </div>
+        <div class="post-card">
+            <a href="https://www.instagram.com/ukmpenelitianunila/">
+                <img src="WhatsApp Image 2025-08-04 at 17.21.04_b21c8c99.jpg" alt="Postingan 26">
+            </a>
+            <div class="post-info">
+                <p class="post-title">Akses UKM Penelitian Unila (Instagram)</p>
+                <h1 class="post-subtitle">Organization, Self Development, Leadership, Wisdom, Experience</h1>
+            </div>
+        </div>
+        <div class="post-card">
+            <a href="https://www.youtube.com/@ukmpenelitianunila3203">
+                <img src="WhatsApp Image 2025-08-04 at 17.21.04_1c235c5e.jpg" alt="Postingan 27">
+            </a>
+            <div class="post-info">
+                <p class="post-title">Akses UKM Penelitian Unila (Youtube)</p>
+                <h1 class="post-subtitle">Organizaion, Self Development, Leadership, Wisdom, Experience</h1>
+            </div>
+        </div>
+        <div class="post-card">
+            <a href="https://www.instagram.com/kadafidevayana/">
+                <img src="WhatsApp Image 2025-08-04 at 17.21.07_77f3e04b.jpg" alt="Postingan 28">
+            </a>
+            <div class="post-info">
+                <p class="post-title">Akses Kadafi Devayana (Instagram)</p>
+                <h1 class="post-subtitle">Personal Branding, Self Development, Wisdom</h1>
+            </div>
+        </div>
+        <div class="post-card">
+            <a href="https://www.youtube.com/@kadafidevayana">
+                <img src="WhatsApp Image 2025-08-04 at 17.21.05_26857e2c.jpg" alt="Postingan 29">
+            </a>
+            <div class="post-info">
+                <p class="post-title">Akses Kadafi Devayana (Youtube)</p>
+                <h1 class="post-subtitle">Personal Branding Self Development, Wisdom</h1>
+            </div>
+        </div>
+        <div class="post-card">
+            <a href="https://www.instagram.com/julioekspor/">
+                <img src="WhatsApp Image 2025-08-04 at 17.21.08_8bb5b2f7.jpg" alt="Postingan 30">
+            </a>
+            <div class="post-info">
+                <p class="post-title">Akses Julio Ekspor (Instagram)</p>
+                <h1 class="post-subtitle">Export Bussiness, Self Development, Finance, Wisdom</h1>
+            </div>
+        </div>
+        <div class="post-card">
+            <a href="https://www.youtube.com/@JulioEkspor">
+                <img src="WhatsApp Image 2025-08-04 at 17.21.09_b53c54a2.jpg" alt="Postingan 31">
+            </a>
+            <div class="post-info">
+                <p class="post-title">Akses Julio Ekspor (Youtube)</p>
+                <h1 class="post-subtitle">Export Bussiness, Self Development, Finance, Wisdom</h1>
+            </div>
+        </div>
+        <div class="post-card">
+            <a href="https://www.instagram.com/vieny_su/">
+                <img src="WhatsApp Image 2025-08-04 at 18.08.26_f0e108c4.jpg" alt="Postingan 31">
+            </a>
+            <div class="post-info">
+                <p class="post-title">Akses Vieny Su (Instagram)</p>
+                <h1 class="post-subtitle">Export Bussiness, Self Development</h1>
+            </div>
+        </div>
+        <div class="post-card">
+            <a href="https://www.youtube.com/@vieny_su">
+                <img src="WhatsApp Image 2025-08-04 at 18.08.25_95deb0cd.jpg" alt="Postingan 32">
+            </a>
+            <div class="post-info">
+                <p class="post-title">Akses Vieny Su (Youtube)</p>
+                <h1 class="post-subtitle">Export Bussiness, Self Development</h1>
+            </div>
+        </div>
+        <div class="post-card">
+            <a href="https://lynk.id/mid.ltm">
+                <img src="WhatsApp Image 2025-08-04 at 18.47.20_b84040b0.jpg" alt="Postingan 32">
+            </a>
+            <div class="post-info">
+                <p class="post-title">Akses LTM (Lynk.id)</p>
+                <h1 class="post-subtitle">Product, Ebooks, Self Development</h1>
+                </div>
+        </div>
+        <div class="post-card">
+            <a href="https://www.instagram.com/santosoim/">
+                <img src="WhatsApp Image 2025-08-05 at 16.44.40_46337342.jpg" alt="Postingan 32">
+            </a>
+            <div class="post-info">
+                <p class="post-title">Akses Santoso Imam (Instagram)</p>
+                <h1 class="post-subtitle">Self Development, Education, Information, Reference</h1>
